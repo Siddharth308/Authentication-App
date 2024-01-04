@@ -1,0 +1,3 @@
+- [ ] Connect with GIT .
+- [ ] Create a new proj .
+- [x] Make small small tasks .
